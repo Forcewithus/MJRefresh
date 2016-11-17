@@ -683,9 +683,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
+				AC06F4661DDD99CC004B3D40 /* MJRefresh */,
 				2DA7F9241AA6B4C4005627AB /* MJRefreshExample */,
 				2DA7F93D1AA6B4C4005627AB /* MJRefreshExampleTests */,
-				AC06F4661DDD99CC004B3D40 /* MJRefresh */,
 				AC06F46E1DDD99CC004B3D40 /* MJRefreshTests */,
 			);
 		};
@@ -1146,6 +1146,7 @@
 				AC06F47F1DDD99CC004B3D40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC06F4841DDD99CC004B3D40 /* Build configuration list for PBXNativeTarget "MJRefreshTests" */ = {
 			isa = XCConfigurationList;
@@ -1154,6 +1155,7 @@
 				AC06F4811DDD99CC004B3D40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
